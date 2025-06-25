@@ -64,7 +64,9 @@ I'm a dedicated **Full-Stack Developer** with a strong foundation in backend dev
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=createsh&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-  ![Snake animation](https://github.com/createsh/createsh/blob/output/github-contribution-grid-snake.svg)
+  
+  <img src="https://github.com/createsh/createsh/blob/output/github-contribution-grid-snake.svg" alt="GitHub Activity Graph" />
+ 
 
 </p>
 

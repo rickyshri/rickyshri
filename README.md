@@ -65,6 +65,8 @@ I'm a dedicated **Full-Stack Developer** with a strong foundation in backend dev
 <p align="center">
  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=createsh&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=createsh&theme=tokyo-night)
+
 
 </p>
 

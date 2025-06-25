@@ -47,7 +47,30 @@ I'm a dedicated **Full-Stack Developer** with a strong foundation in backend dev
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=createsh&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=createsh&layout=compact&theme=tokyonight&hide_border=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=createsh&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubham's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=createsh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=createsh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=createsh&theme=radical&no-frame=true&title=Commit,Issues,Stars,PullRequest,Followers" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=createsh&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
 
 ---
 

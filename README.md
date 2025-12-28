@@ -44,19 +44,16 @@ I'm a dedicated **Full-Stack Developer** with a strong foundation in backend dev
 
 ## 📈 GitHub Stats
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rickyshri&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickyshri&layout=compact&theme=tokyonight&hide_border=true" />
-  
-</p>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rickyshri&theme=radical&no-frame=true&title=Commit,Issues,Stars,PullRequest,Followers" alt="GitHub Trophies" />
-</p>
+
 
 ---
 

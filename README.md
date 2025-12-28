@@ -55,7 +55,7 @@ I'm a dedicated **Full-Stack Developer** with a strong foundation in backend dev
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=createsh&theme=radical&no-frame=true&title=Commit,Issues,Stars,PullRequest,Followers" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rickyshri&theme=radical&no-frame=true&title=Commit,Issues,Stars,PullRequest,Followers" alt="GitHub Trophies" />
 </p>
 
 ---

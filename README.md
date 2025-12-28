@@ -62,12 +62,11 @@ I'm a dedicated **Full-Stack Developer** with a strong foundation in backend dev
 
 ## 📊 GitHub Activity Graph
 
-<p align="center">
-[![ github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rickyshri&theme=react)](https://github.com/rickyshri/github-readme-activity-graph)
+
+[![ github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rickyshri&theme=react-dark)](https://github.com/rickyshri/github-readme-activity-graph)
 
 
 
-</p>
 
 
 ---

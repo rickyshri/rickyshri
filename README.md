@@ -45,8 +45,8 @@ I'm a dedicated **Full-Stack Developer** with a strong foundation in backend dev
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=createsh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=createsh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rickyshri&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickyshri&layout=compact&theme=tokyonight&hide_border=true" />
   
 </p>
 
@@ -63,7 +63,7 @@ I'm a dedicated **Full-Stack Developer** with a strong foundation in backend dev
 ## 📊 GitHub Activity Graph
 
 <p align="center">
- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=createsh&theme=github-compact
+ ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rickyshri&theme=github-compact
 )
 
 

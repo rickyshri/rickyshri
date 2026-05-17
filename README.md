@@ -16,7 +16,7 @@ I'm a dedicated **Full-Stack Developer** with a strong foundation in backend dev
 - ⚡ Fun fact: I often prototype full apps over weekends — backend + frontend + deployment!
 
 ---
-
+![](https://komarev.com/ghpvc/?username=rickyshri)
 ## 🛠️ Tech Stack
 
 **Languages**  

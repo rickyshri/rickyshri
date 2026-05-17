@@ -41,11 +41,19 @@ I'm a dedicated **Full-Stack Developer** with a strong foundation in backend dev
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
 ---
-
 ## 📈 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rickyshri&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickyshri&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rickyshri&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickyshri&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
+</p>
 
 
 ---
